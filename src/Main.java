@@ -4,7 +4,7 @@ public class Main {
 
         System.out.println("I like pizza\n");
         System.out.print("It's really good");
-        System.out.print("");
+        System.out.print("Bye for me ");
     }
 
 }
